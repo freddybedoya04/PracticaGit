@@ -6,3 +6,5 @@ utilizando git
 tengo 24 años
 
 estoy aprendiendo git
+
+soy ingeniero
