@@ -1,10 +1,5 @@
 esta es la historia de freedy bedoya
 
-el programador junior y su camino a senior
+el programador junior y su camino a senir
 
-utilizando git
-tengo 24 años
-
-estoy aprendiendo git
-
-soy ingeniero
+voy a utilizar git
