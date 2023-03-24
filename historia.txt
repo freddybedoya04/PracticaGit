@@ -4,3 +4,5 @@ el programador junior y su camino a senior
 
 utilizando git
 tengo 24 años
+
+estoy aprendiendo git
