@@ -13,3 +13,17 @@ body{
     border: 1px solid violet;
     border-radius: 20px;
 }
+#cabecera{
+
+    background-color:red ;
+    font-size: 30px;
+    color: aliceblue;
+    height: 40px;padding: 0;
+    margin: 0 auto;
+    box-shadow: -12px 8px 5px 0px rgba(0,0,0,0.75);
+}
+#cabecera span{
+    margin-left: 15px;
+    font-size: 15px;
+    color: aliceblue;
+}
