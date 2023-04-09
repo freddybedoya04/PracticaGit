@@ -9,10 +9,10 @@ body{
 .container{
     width: 70%;
     margin: 0 auto;
-    padding: 1rem;
+    /* padding: 0.5rem; */
     text-align:start;
     border: 1px solid violet;
-    border-radius: 20px;
+    /* border-radius: 20px; */
 }
 #cabecera{
     display: flex;
@@ -36,4 +36,15 @@ body{
 }
 .post{
     font-size: 30px;
+    padding-left: 1rem;
+}
+.Footer{
+    color: aliceblue;
+    font-size: 20px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #777;
+    padding: 0.5rem;
 }
