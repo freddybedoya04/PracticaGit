@@ -9,16 +9,17 @@ body{
     width: 70%;
     margin: 0 auto;
     padding: 1rem;
-    text-align: center;
+    text-align:start;
     border: 1px solid violet;
     border-radius: 20px;
 }
 #cabecera{
-
+    display: flex;
+    align-items: center;
     background-color:red ;
-    font-size: 30px;
+    font-size: 40px;
     color: aliceblue;
-    height: 40px;padding: 0;
+    height: 60px;padding: 0;
     margin: 0 auto;
     box-shadow: -12px 8px 5px 0px rgba(0,0,0,0.75);
 }
@@ -30,4 +31,7 @@ body{
     margin-left: 15px;
     font-size: 15px;
     color: aliceblue;
+}
+.post{
+    font-size: 30px;
 }
