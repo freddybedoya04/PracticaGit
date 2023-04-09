@@ -22,6 +22,10 @@ body{
     margin: 0 auto;
     box-shadow: -12px 8px 5px 0px rgba(0,0,0,0.75);
 }
+#cabecera img{
+    width: 30px;
+    height: 30px;
+}
 #cabecera span{
     margin-left: 15px;
     font-size: 15px;
